@@ -1,0 +1,12 @@
+{
+  "name": "lib1",
+  "version": "0.0.1",
+  "dependencies": {},
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./index.mjs",
+      "default": "./index.mjs"
+    }
+  }
+}
